@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\bin\Debug\Math_JayStiles.exe.config
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\bin\Debug\Math_JayStiles.exe
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\bin\Debug\Math_JayStiles.pdb
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\obj\Debug\Math_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\obj\Debug\Math_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\obj\Debug\Math_JayStiles.exe
+C:\Users\jstiles\source\repos\Math_JayStiles\Math_JayStiles\obj\Debug\Math_JayStiles.pdb
